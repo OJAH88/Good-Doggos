@@ -1,0 +1,9 @@
+body {
+    background: grey;
+  }
+  p { font-size: 140%; color:black; }
+  
+  img {
+    width: 50%;
+    height: auto;
+  }
